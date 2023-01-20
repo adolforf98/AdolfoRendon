@@ -4,27 +4,27 @@
     color:white !important;
 }
 tr .blanco {
-    background-color: aliceblue;
+    background-color: rgb(11, 91, 161);
 
 }
 .aquamarine {
-    background-color: rgb(131, 212, 231)
+    background-color: rgb(179, 185, 155)
 }
 .azuljersey {
-    background-color: rgb(64, 64, 176);
+    background-color: rgb(64, 176, 96);
     color:aquamarine;
 }
 #ton {
-    color:white !important;
+    color:rgb(37, 150, 92) !important;
 }
 #entrega {
-    color:orangered;
+    color:rgb(184, 127, 107);
     text-align: center;
 }
 
 #first {
-    border-top: 1px solid;
-    border-bottom: 1px solid;
+    border-top: 3px dashed;
+    border-bottom: 3px dashed;
     border-collapse: collapse;
 }
 * {
